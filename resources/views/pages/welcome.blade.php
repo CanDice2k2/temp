@@ -10,8 +10,8 @@
     <div class="row hero">
         <div class="col-8 offset-1 d-flex align-items-center">
             <div>
-                <h1 class="text-white font-weight-bold text-capitalize">PT. Asta Satria Investama</h1>
-                <h4 class="text-white">Perusahaan yang bergerak di bidang pengembangan game.</h4>
+                <h1 class="text-white font-weight-bold text-capitalize">Hệ thống quản lý nhân sự</h1>
+                <h4 class="text-white">Nền tảng hỗ trợ quản lý nhân sự hiệu quả và chuyên nghiệp.</h4>
             </div>
         </div>
     </div>
